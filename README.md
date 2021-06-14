@@ -7,3 +7,4 @@ SMRGL is a typical 4-lane rhythm game made purely in Lua and the engine, LOVE2D.
 
 # Installation
 
+lol i'm lazy ok bye lol
